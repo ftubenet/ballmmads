@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "banner_ad_enabled": true,
   "interstitial_ad_enabled": true,
   "app_open_ad_enabled": true,
