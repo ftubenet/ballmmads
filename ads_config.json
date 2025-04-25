@@ -1,0 +1,9 @@
+{
+  "ads_enabled": true,
+  "banner_ad_enabled": true,
+  "interstitial_ad_enabled": true,
+  "app_open_ad_enabled": true,
+  "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",  // Replace with your Banner Ad Unit ID
+  "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",  // Replace with your Interstitial Ad Unit ID
+  "app_open_ad_unit_id": "ca-app-pub-3940256099942544/5575463023"  // Replace with your App Open Ad Unit ID
+}
