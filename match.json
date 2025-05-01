@@ -1,6 +1,6 @@
 {
   "videoUrl": "https://example.com/videos/how_to_use_app.mp4",
-  "enableTapUnlock": true,
+  "enableTapUnlock": false,
   "matches": [
     {
       "matchTitle": "Premier League: Manchester United vs Liverpool",
