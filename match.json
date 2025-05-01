@@ -1,0 +1,26 @@
+{
+  "videoUrl": "https://example.com/videos/how_to_use_app.mp4",
+  "matches": [
+    {
+      "matchTitle": "Premier League: Manchester United vs Liverpool",
+      "matchDescription": "An intense rivalry match at Old Trafford.",
+      "matchImage": "https://example.com/images/match1.jpg",
+      "predictor": "AI Predictor",
+      "score": "2-1"
+    },
+    {
+      "matchTitle": "La Liga: Barcelona vs Real Madrid",
+      "matchDescription": "El Clásico showdown at Camp Nou.",
+      "matchImage": "https://example.com/images/match2.jpg",
+      "predictor": "Expert Analyst",
+      "score": "3-2"
+    },
+    {
+      "matchTitle": "Serie A: Juventus vs Inter Milan",
+      "matchDescription": "A crucial Derby d'Italia match.",
+      "matchImage": "https://example.com/images/match3.jpg",
+      "predictor": "Fan Prediction",
+      "score": "1-1"
+    }
+  ]
+}
