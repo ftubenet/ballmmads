@@ -1,6 +1,6 @@
 {
   "videoUrl": "https://soundboard.b-cdn.net/ballmm/BALLMM.m3u8",
-  "enableTapUnlock": true,
+  "enableTapUnlock": false,
   "matches": [
     {
       "matchTitle": "Premier League: Manchester United vs Liverpool",
